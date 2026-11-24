@@ -13,4 +13,11 @@
 //   appId: "1:1234567890:web:abc123"
 // };
 
-window.RGP_FIREBASE_CONFIG = null;
+window.RGP_FIREBASE_CONFIG = {
+  apiKey: "AIzaSyAJ0WEXsd43c_kiDfrgDAYesKb92HbKjBg",
+  authDomain: "rugby-gym-pro.firebaseapp.com",
+  projectId: "rugby-gym-pro",
+  storageBucket: "rugby-gym-pro.firebasestorage.app",
+  messagingSenderId: "1047517833479",
+  appId: "1:1047517833479:web:a82703b69f8f4b88fbbda2"
+};
