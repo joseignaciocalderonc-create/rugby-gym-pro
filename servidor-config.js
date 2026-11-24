@@ -3,4 +3,4 @@
 // (Apps Script → Implementar → Administrar implementaciones → URL de la aplicación web).
 // Mientras quede vacía, la app funciona sin cuentas (solo en el teléfono).
 
-window.RGP_SERVER_URL = 'https://script.google.com/macros/s/AKfycbyXZP0mdrxR1XR_0bfxdkl84UpUp5AFY1Jbr8Bw5z5x-GB6cchyBZM2XYU0nuaetoqBFg/exec';
+window.RGP_SERVER_URL = 'https://script.google.com/macros/s/AKfycbxT5n915zXWA3JfgMFRB6H9KfZTQOcTi_QlUKuSX5JW_3UofCX_RmE2mn1VkVabua27/exec';
