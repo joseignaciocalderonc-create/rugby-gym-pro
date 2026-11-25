@@ -1,5 +1,5 @@
 // Rugby Gym Pro: guarda la app para que funcione sin internet
-const CACHE = 'rugby-gym-pro-202611242348';
+const CACHE = 'rugby-gym-pro-202611242355';
 const FILES = ['./', './index.html', './servidor-config.js', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
